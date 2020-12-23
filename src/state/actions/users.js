@@ -87,6 +87,7 @@ export const fetchUsers = (userId = '') => {
         data: users.filter((user) => user.id !== id),
       })
     );
+    
   };
 };
 

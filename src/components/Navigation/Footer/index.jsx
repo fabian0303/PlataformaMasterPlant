@@ -18,7 +18,7 @@ const Footer = () => {
               <div className="logo">
                 <a href="https://www.masterplant.cl/">
                   <img
-                    src="https://www.masterplant.cl/images/logo.jpg"
+                    src="https://masterplant.biovisionagricola.cl/logomp.png"
                     alt="masterplant.cl"
                   />
                 </a>
